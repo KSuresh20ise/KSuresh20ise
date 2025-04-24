@@ -28,7 +28,7 @@ A Spring Boot REST API that manages software engineers with full CRUD support. M
 A responsive weather app that displays real-time updates and 5-day forecasts using the WeatherStack API.
 
 - 🌐 [Live Demo](https://weatherverse.onrender.com)
-- 🌦️ Tech: HTML, CSS, JavaScript, WeatherStack API
+- 🌦️ Tech: HTML, CSS, JavaScript, Java ,Spring boot,WeatherStack API
 
 ---
 
