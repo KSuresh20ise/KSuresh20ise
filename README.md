@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm **K Suresh**
 
-I'm a passionate and curious software developer who enjoys building clean, efficient, and scalable web applications using modern tools and technologies. Currently seeking exciting opportunities to grow as a developer and contribute to impactful projects.
+I'm a passionate and curious software developer who enjoys building clean, efficient, and scalable Java applications using modern tools and technologies. Currently seeking exciting opportunities to grow as a developer and contribute to impactful projects.
 
 ---
 
